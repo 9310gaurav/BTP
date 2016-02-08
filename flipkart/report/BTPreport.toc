@@ -1,0 +1,64 @@
+\contentsline {section}{\numberline {1}Introduction}{5}
+\contentsline {subsection}{\numberline {1.1}Motivation and Aim}{5}
+\contentsline {section}{\numberline {2}Background: The Journey of Indian Music}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{ }{8}
+\contentsline {subsection}{\numberline {2.1}Introduction to Ragas}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{9}
+\contentsline {subsection}{\numberline {2.2}Structural Features of Raga}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {paragraph}{}{10}
+\contentsline {paragraph}{}{10}
+\contentsline {paragraph}{}{10}
+\contentsline {subsection}{\numberline {2.3}Classification of Ragas}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{13}
+\contentsline {section}{\numberline {3}Musical Notation}{14}
+\contentsline {subsection}{\numberline {3.1}Historical Overview }{14}
+\contentsline {paragraph}{}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {subsection}{\numberline {3.2}Bhatkhande Notation}{15}
+\contentsline {subsection}{\numberline {3.3}Humdrum Syntax}{16}
+\contentsline {paragraph}{•}{17}
+\contentsline {subsection}{\numberline {3.4}Intermediate Representation of Bandish}{18}
+\contentsline {paragraph}{•}{18}
+\contentsline {paragraph}{•}{19}
+\contentsline {subsection}{\numberline {3.5}Musical Notation and the Internationalization of North Indian Music}{19}
+\contentsline {paragraph}{•}{19}
+\contentsline {paragraph}{•}{20}
+\contentsline {section}{\numberline {4}A Tool to Synthesize Music from Annotated Notes}{20}
+\contentsline {subsection}{\numberline {4.1}Choice of MIDI as our output file format}{20}
+\contentsline {subsubsection}{\numberline {4.1.1}The MIDI interface}{21}
+\contentsline {subsubsection}{\numberline {4.1.2}Composing music using MIDI}{21}
+\contentsline {subsection}{\numberline {4.2}The MIDI format}{21}
+\contentsline {paragraph}{}{21}
+\contentsline {subsubsection}{\numberline {4.2.1}Note ON/OFF Messages}{22}
+\contentsline {subsubsection}{\numberline {4.2.2}The Pitch Bend Message}{22}
+\contentsline {paragraph}{Varying the severity of Pitch Bend}{23}
+\contentsline {subsubsection}{\numberline {4.2.3}MIDI Vs Other Formats(MP3,WAV)}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {paragraph}{Size Difference in MIDI and other formats}{27}
+\contentsline {section}{\numberline {5}Data Structures Used}{28}
+\contentsline {subsection}{\numberline {5.1}MidiFile class }{28}
+\contentsline {subsubsection}{\numberline {5.1.1} Reading/writing functions}{28}
+\contentsline {subsubsection}{\numberline {5.1.2} Track-related functions}{29}
+\contentsline {subsubsection}{\numberline {5.1.3}Time-related functions}{30}
+\contentsline {subsubsection}{\numberline {5.1.4}Event tick interpretation}{30}
+\contentsline {subsubsection}{\numberline {5.1.5}Physical time of events}{31}
+\contentsline {paragraph}{•}{31}
+\contentsline {subsection}{\numberline {5.2}MidiEventsList }{31}
+\contentsline {subsection}{\numberline {5.3}MidiEvents Class }{32}
+\contentsline {subsection}{\numberline {5.4}MidiMessage Class }{32}
+\contentsline {section}{\numberline {6} Results Obtained}{34}
+\contentsline {paragraph}{•}{34}
+\contentsline {paragraph}{•}{34}
+\contentsline {section}{\numberline {7}Conclusion and Future Work}{35}
+\contentsline {paragraph}{•}{35}
